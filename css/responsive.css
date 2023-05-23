@@ -1,0 +1,94 @@
+@media screen and (max-width: 992px){
+
+	.about .content p {
+		margin-top: 53px;
+		color: #fff;
+	}
+
+	.portfolio .content h2 {
+		  margin-top: 6px;
+	}
+
+	.contact .content form textarea {
+		height: 196px;
+	}
+
+}
+
+@media screen and (max-width: 768px) {
+
+	.navbar .navbar-nav .nav-link {
+		text-align: center;
+	}
+	.navbar .button {
+		display: none;
+	}
+
+	.portfolio .content h2 {
+		margin-top: 6px;
+	}						
+}
+	
+
+@media screen and (max-width: 576px) {
+
+	.navbar .navbar-toggler .close {
+		display: none;
+		position: relative;
+		right: 0;
+	}
+
+	.about .content p {
+		 margin: 8px 0 0 0;
+		 color: #fff;
+	}
+
+	.portfolio .container >.row {
+		display: flex;
+		flex-direction: column-reverse;
+	}	
+
+
+	.contact .button {
+		position: relative;
+		position: absolute;
+		left: 32px;
+		margin-top: 10px
+	}
+
+}
+
+
+@media screen and (max-width: 360px) {
+	.header .content p {
+		font-size: 20px;
+	}
+
+	h1 {
+		font-size: 33px;
+	}
+
+	h3 {
+		font-size: 21px;
+	}
+
+	.navbar .navbar-toggler .open {
+		  position: absolute;
+		  right: 13px;
+		  bottom: 28px;
+	}
+
+	.navbar .navbar-toggler .open {
+		  position: absolute;
+		  right: 17px;
+		  bottom: 28px;
+	}	
+
+	.contact .button {
+		position: absolute;
+		left: 13px;
+		margin-top: 14px
+	}
+	
+}
+

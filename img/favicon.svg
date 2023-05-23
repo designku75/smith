@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16.00009mm"
+   height="16mm"
+   viewBox="0 0 16.00009 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="designku.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="5"
+     inkscape:cx="129.7"
+     inkscape:cy="605.1"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-22.982523,-145.8256)">
+    <g
+       id="g3769"
+       transform="matrix(0.36953132,0,0,0.3695291,14.502711,91.920503)">
+      <circle
+         style="fill:#7cc1f3;fill-opacity:1;stroke:#005df5;stroke-width:0.965;stroke-dasharray:none;stroke-opacity:1"
+         id="path111"
+         cx="44.596649"
+         cy="167.52425"
+         r="21.166666" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.76437px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#f7f7f7;fill-opacity:1;stroke:#2786a5;stroke-width:0.0977713;stroke-dasharray:none;stroke-opacity:0.835749"
+       x="24.198025"
+       y="156.09488"
+       id="text1627"
+       transform="scale(1.0097814,0.99031335)"><tspan
+         sodipodi:role="line"
+         id="tspan1625"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.76437px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#f7f7f7;fill-opacity:1;stroke:#2786a5;stroke-width:0.0977713;stroke-dasharray:none;stroke-opacity:0.835749"
+         x="24.198025"
+         y="156.09488">design ku</tspan></text>
+  </g>
+</svg>
